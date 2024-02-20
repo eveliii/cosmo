@@ -1,0 +1,45 @@
+@font-face {
+    src: url("webb/IMMORTAL.ttf");
+    font-family: hell;
+}
+.flex{
+    display: flex;
+    font-family: hell;
+    background-color: skyblue;
+    border: 2px solid black;
+    border-radius: 10px;
+   text-align: center;
+   margin: 0px auto;
+}
+.img{
+    width: 120px;
+    }
+    .text{
+        font-size: 30px;
+        margin:auto;
+        }
+    .textt{
+        font-family: hell;
+       background-image: url("webb/giphy.webp");
+       display: block;
+       color: wheat;
+    font-size: 30px;
+    text-align: center;
+    padding:5px; 
+    }
+    .flextwo{
+    display: flex;
+    font-family: hell;
+    background-color: skyblue;
+    border: 2px solid black;
+  margin-top: 0px;
+   text-align: center;
+   margin: 0px auto;
+    }
+    .bra{
+        margin:0 auto;
+    }
+    
+    .backg{
+        background-image: url("images/genius.gif");
+    }
